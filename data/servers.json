@@ -3618,6 +3618,19 @@
     "official": true
   },
   {
+    "name": "HEY Research Lab",
+    "url": "https://github.com/hey-research-lab/hey-research-open",
+    "description": "Read-only research on Robinhood Chain projects and tokens: whether a team is still shipping, what it shipped and what changed, each claim with its public source.",
+    "category": "data-analytics-and-bi",
+    "language": "TypeScript",
+    "provider": "HEY Research Lab",
+    "tags": ["blockchain", "robinhood-chain", "research", "open-data"],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://heyresearch.xyz/mcp"
+    }
+  },
+  {
     "name": "MCP Python SDK",
     "url": "https://github.com/modelcontextprotocol/python-sdk",
     "description": "Official Python SDK for building MCP servers and clients.",
